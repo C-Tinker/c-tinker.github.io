@@ -24,13 +24,13 @@ repository               : "c-tinker.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Cameron Tinker"
+  pronouns         : "He/Him"  
+  bio              : "Highschooler attending Richland High School, learning Javascript and wanting to go into a feild of Cybersecurity"
+  location         : "Richland, WA"
+  employer         : "Richland Highschool"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2011monke@gmail.com" 
 
   # Academic websites
   academia         : # URL
