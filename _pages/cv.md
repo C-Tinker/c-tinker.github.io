@@ -9,56 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Summary
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Highschool student attending Richland Highs, I’m interested in JavaScript and coding in general. I am wanting to get into Cybersecurity and jobs that require that field of Computer Science. 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2025 - May 2026: French Club
+  * Helped with food making.
+  * Helped others when needed, like ingredient measurements.
+  * Payed attention and listened to ingredient insturctions and health saftey instructions.
+* April 2024 - May 2024: Ellen’s Chair Covers
+  * Contributed to their events, help prepare and pick up.
+  * Listened to instructions by my grandparents, who own the company.
+  * Was proficient and stayed on task whilst helping.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Problem solving.
+* Attention to details.
+* Non-Distracting.
+* Constructive Criticizer.
   
-Talks
+Education
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* August 2025 - Present: Richland Highschool
+  * Computer Science and Principles
+  * Final GPA: 3.40
+* August 2022 - Jun 2025: Leona Libby Middleschool
+  * Computer Science and Principles
+  * Final GPA: 3.40
