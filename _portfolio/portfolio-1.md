@@ -1,6 +1,6 @@
 ---
 title: "Pixel Paint Project"
-excerpt: "A small project for my computer science class, it uses javascript to simulate a digital paint program but with a pixelated style. item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "A small project for my computer science class, it uses javascript to simulate a digital paint program but with a pixelated style. item number 1<br/><img src='/images/pixelPaintProject.png'>"
 collection: portfolio
 ---
 
