@@ -7,7 +7,8 @@
 ## Skills
 - Javascript
 ## Certifications
-- None
+- Elite Fleet
+- Academic Excellence for 3.0+ GPA
 ## Activities
 - French Club
 ## Leadership
