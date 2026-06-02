@@ -1,4 +1,12 @@
-# Cameron Tinker
+---
+permalink: /
+title: "Cameron Tinker"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## About Me
   I am a 9th grade highschool student at Richland High School, who's interested in computer science, specifically Cybersecurity.
   I find computer science interesting and honestly the future of science.
