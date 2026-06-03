@@ -14,4 +14,6 @@ collection: portfolio
   - Resets drawing to pick new color, needing to manually type in color
   - Limited drawing detail
 
+* Project
+  - https://codehs.com/sandbox/camcodehsiscool/pixelated-paint-project/run
 
