@@ -12,3 +12,5 @@ collection: portfolio
 * Problems
   - Main problems I had was organizing it, trying to fit the text with 2 projects was quite difficult
 
+* Project
+  - https://canva.link/ryynqlke90wnnxl
